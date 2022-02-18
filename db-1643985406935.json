@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "german.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "name": "Rohit ",
+      "username": "roho",
+      "phone": "1646465",
+      "email": "rohitypatil@gmail.com",
+      "website": "",
+      "websiteName": "a",
+      "id": 15
+    },
+    {
+      "name": "Shuhham",
+      "username": "12",
+      "phone": "",
+      "email": "shubhamsonone1995@gmail.com",
+      "website": "shambhoooo",
+      "id": 17
+    },
+    {
+      "name": "Leanne Graham",
+      "username": "Golu",
+      "phone": "+9970064517",
+      "email": "shubhamsonone1995@gmail.com",
+      "website": "hildegard.org",
+      "id": 18
+    },
+    {
+      "name": "Shuhham",
+      "username": "CHOUGR",
+      "email": "secmechnsm@gmail.com",
+      "phone": "",
+      "website": "german.org",
+      "id": 19
+    },
+    {
+      "name": "nikkiii",
+      "username": "Golu",
+      "email": "rohitypatil@gmail.com",
+      "phone": "",
+      "website": "namase",
+      "id": 20
+    },
+    {
+      "name": "Ananta",
+      "username": "Anttuu",
+      "email": "ananta@shegaon",
+      "phone": "8888888888",
+      "website": "yogeshwarr",
+      "id": 21
+    },
+    {
+      "name": "shreee",
+      "username": "sheeeeeshhaaa",
+      "phone": "65456456",
+      "email": "shreee@shreee",
+      "website": "sherrrrrr",
+      "id": 22
+    }
+  ]
+}
